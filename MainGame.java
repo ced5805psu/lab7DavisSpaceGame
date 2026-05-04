@@ -9,6 +9,19 @@ import java.util.List;
 import java.util.Random;
 import javax.sound.sampled.*;
 
+/**
+ * Conner Davis
+ */
+/** Project: Solo Lab 7 Assignment
+ * Purpose Details:
+ * Course: IST 242
+ * Author: Conner Davis
+ * Date Developed: 5/2/2026
+ * Last Date Changed: 5/3/2026
+ * Rev:
+
+ */
+
 public class MainGame extends JFrame implements KeyListener {
     private static final int WIDTH = 500;
     private static final int HEIGHT = 500;
